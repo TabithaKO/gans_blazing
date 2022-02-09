@@ -16,3 +16,10 @@ This is a face reenactment model. The notebook implements the code specified in 
 ## StarGAN_V2.ipynb 💫
 This is a style transfer model that allows us to transfer style like hairstyle, skin color, makeup etc from a reference image to a source image. The pretrained weights are provided by myself based on a model trained on 4 domains. The rest of the code is supplied by the [original authors](https://github.com/clovaai/stargan-v2-tensorflow).
 
+## ImpersonatorGAN_plus_plus.ipynb 💫
+This is a pose transfer model that allows us to transfer body pose from a reference video to a source image. I added nothing besides a comment on where to reference your custom inputs in the code. The notebook is a replica of the one provided by the authors [here](https://github.com/iPERDance/iPERCore)
+
+
+## OpenFace.ipynb 💫
+This is a landmark detection model that allows us to detect 98 landmarks as well as gaze on an image. The notebook is based on the [original authors'](https://github.com/TadasBaltrusaitis/OpenFace) notebook however I change the test video from a youtube video to a custom video that one uploads to Google Colab. 
+
