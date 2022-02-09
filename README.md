@@ -9,3 +9,10 @@ The face parse model was trained on celebA-HQ. There are 18 unique classes that 
 
 ## Mediapipe.ipynb 💫  
 This a landmark detection model with over 400 landmarks (so you can get really precise with your landmarks). Read more from the authors [here](https://google.github.io/mediapipe/solutions/face_mesh.html) The notebook allows you to perfrom the landmark detection on a video and generate side by side comparison. The original notebook by a separate author is [here](https://colab.research.google.com/github/kevinash/awesome-ai/blob/main/notebooks/5_FacesAndExpressions/MediaPipe_Face_Mesh.ipynb)
+
+## ICFace.ipynb 💫  
+This is a face reenactment model. The notebook implements the code specified in the [authors' repository](https://github.com/Blade6570/icface) with some minor changes to allow it to run smoothly on Google Colab.
+
+## StarGAN_V2.ipynb 💫
+This is a style transfer model that allows us to transfer style like hairstyle, skin color, makeup etc from a reference image to a source image. The pretrained weights are provided by myself based on a model trained on 4 domains. The rest of the code is supplied by the [original authors](https://github.com/clovaai/stargan-v2-tensorflow).
+
