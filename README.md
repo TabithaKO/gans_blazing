@@ -1,5 +1,5 @@
 # gans_blazing
-I use face parding algorithms and GANs to create visually interesting videos. 
+I use face parsing algorithms and GANs to create visually interesting videos. 
 
 ## Dlib.ipynb 💫 
 The Dlib algorithm allows you to perfrom landmark detection on a face. I edited the code to highlight 8 uniqe landmarks but the original model can definitely highlight many more models. The notebook allows you to implement this model on a single image or a video.
