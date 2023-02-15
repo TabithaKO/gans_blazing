@@ -1,6 +1,9 @@
 # gans_blazing
 I use face parsing algorithms and GANs to create visually interesting videos. 
 
+## computer_vision_datasets.md 💫 
+This is a markdown file containing links to websites with free computer vision datasets.
+
 ## Dlib.ipynb 💫 
 The Dlib algorithm allows you to perfrom landmark detection on a face. I edited the code to highlight 8 uniqe landmarks but the original model can definitely highlight many more models. You can use this notebook to create landmarks that can be used to overlay pixels for Augmented Reality. The landmarks around the mouth can guide lipstick application. The notebook allows you to implement this model on a single image or a video. 
 
